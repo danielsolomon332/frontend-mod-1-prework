@@ -47,7 +47,7 @@ When you are finished, add screenshots of your calendar so we can provide feedba
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
 - [x] Complete the [Mentorship DTR Prep](https://gist.github.com/ericweissman/51965bdcbf42970d43d817818bfaef3c)
   - [x] Add link to your gist here: 
-  - [Link to Mentorship DTR Prep Gist](https://gist.github.com/danielsolomon332/a4539e04593d60a96bb459cdb240c2c9)
+  - [Link to Daniel's Mentorship DTR Prep Gist](https://gist.github.com/danielsolomon332/a4539e04593d60a96bb459cdb240c2c9)
 
 ### Lesson Prep
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
@@ -59,7 +59,7 @@ You've learned a lot about how to take strong notes during Mod 0. Show us your s
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
 - [x] Complete the [DTR Guiding Questions](https://gist.github.com/ericweissman/c56f3a98cdce761808c21d498a52f5c6)
   - [x] Add a link to your gist here: 
-  - [Link to DTR Guiding Questions](https://gist.github.com/danielsolomon332/cac2f27a65901bbdb402140ad7d46bee) 
+  - [Link to Daniel's DTR Guiding Questions](https://gist.github.com/danielsolomon332/cac2f27a65901bbdb402140ad7d46bee) 
 
 ## All Done? How to Submit your M1 Prework
 When you have completed *ALL* the activities described above, follow the steps below to submit your technical prework.
