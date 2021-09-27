@@ -25,22 +25,41 @@ for (var i = 0; i < 3; i++) {
 // What is logged to the console for this second example? Why?
 // EXPLAIN:
 
+//Answer:
+// The console logs the values: 0, 1, 2
+// This is because those are the index locations where the "i" is being logged
+// This is also because "i" is set equal to zero, which is the first index position
 
  // YOU DO: Write code below that logs to the console, the sum of 2 plus 2, 7 times:
 
 
+for (var i = 0; i <7; i++) {
+  console.log(2 + 7)
+}
+
  // YOU DO: Write code below that logs the String 'She sells seashells down by the seashore'
  // 10 times.
 
+var rhyme = 'She sells seashells down by the seashore'
+for (var i = 0; i <10; i++) {
+  console.log(rhyme);
+}
 
 //-------------------
 // LEVEL 2: An Added Layer of Challenge
 //-------------------
 
-// YOU DO: Write code below that logs to the console a String of "This is loop number: " 
+// YOU DO: Write code below that logs to the console a String of "This is loop number: "
 //that concatenates with `i`.
 
+var string = "This is loop number: "
+console.log(string + i);
+
 // YOU DO: Using a for loop, how could you get an output that looks like this:
+
+for (var a = 10; a >= 1; a--) {
+console.log(a);
+}
 
 // 10
 // 9
@@ -53,6 +72,6 @@ for (var i = 0; i < 3; i++) {
 // 2
 // 1
 
-// Not sure? Try to google some terms that seem relevant. Play around with it. Don't spend 
+// Not sure? Try to google some terms that seem relevant. Play around with it. Don't spend
 // more than 15 minutes without making progress. If you are at 15 minutes and haven't made
 // progress, that means it's time to reach out to your pre-work group on Slack!
