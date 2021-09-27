@@ -18,22 +18,30 @@ Some things to consider as you refactor include...
 
 Take your time as you go back and refactor your exercises from each section. We've included a handy checklist for you to go through below.
 
-- [ ] I have refactored my `section1` exercises to the best of my ability
-- [ ] I have refactored my `section2` exercises to the best of my ability
-- [ ] I have refactored my `section3` exercises to the best of my ability
-- [ ] I have refactored my `section4` exercises to the best of my ability
+- [x] I have refactored my `section1` exercises to the best of my ability
+- [x] I have refactored my `section2` exercises to the best of my ability
+- [x] I have refactored my `section3` exercises to the best of my ability
+- [x] I have refactored my `section4` exercises to the best of my ability
 
 ### Time Management Prep
 In Mod 0 you've learned about different techniques for managing your time at Turing. Please create a calendar for your **first 3 weeks of Mod 1**. Feel free to make your calendar fit your style, but we suggest that your calendar should include the following:
-- [ ] Standard M1 class schedule (see M1 calendar [here](https://frontend.turing.io/today/))
-- [ ] Study/Project work time
-- [ ] Health + Wellness
+- [x] Standard M1 class schedule (see M1 calendar [here](https://frontend.turing.io/today/))
+- [x] Study/Project work time
+- [x] Health + Wellness
 
 When you are finished, add screenshots of your calendar so we can provide feedback if needed!
 
-- `Add Week 1 Screenshot Here`
-- `Add Week 2 Screenshot Here`
-- `Add Week 3 Screenshot Here`
+- Week 1 Screenshot
+
+<img width="631" alt="Screen Shot 2021-09-26 at 6 54 58 PM" src="https://user-images.githubusercontent.com/90291724/134830980-6bfdcf34-4654-439c-9398-70bdb82f6a89.png">
+
+- Week 2 Screenshot
+
+<img width="630" alt="Screen Shot 2021-09-26 at 6 55 51 PM" src="https://user-images.githubusercontent.com/90291724/134831008-835fa8e9-0466-4bd5-a895-7a0548020c5e.png">
+
+- Week 3 Screenshot
+
+<img width="629" alt="Screen Shot 2021-09-26 at 6 56 24 PM" src="https://user-images.githubusercontent.com/90291724/134831024-def0d256-53dc-4ba8-a02c-68af170bab07.png">
 
 ### Mentorship Prep
 Mentorship is an integral part of the Turing experience and will help jumpstart your technical career. In order to get your mentor relationship started on the right foot, please complete the following deliverables:
