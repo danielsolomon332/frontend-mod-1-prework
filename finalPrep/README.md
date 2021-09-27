@@ -53,7 +53,7 @@ Mentorship is an integral part of the Turing experience and will help jumpstart 
 You've learned a lot about how to take strong notes during Mod 0. Show us your skills while you learn how to pre-teach content for your first lesson in Mod 1!
 - [x] Complete the [Pre Teaching Practice exercise](https://gist.github.com/ericweissman/0036e8fe272c02bd6d4bb14f42fd2f79) gist
   - [x] Add a link to your gist here:
-  -
+  - [Daniel's Pre Teaching Practice Exercise Gist](https://gist.github.com/danielsolomon332/3873948db4e6e4ed581d43175153cd4c)
 
 ### Group Work Prep
 As part of Turing's project-based learning approach, you will often be working in pairs or larger groups. In order to set yourself (and your team) up for success, it is important to ensure you are prepared to be an equitable contributor and teammate.
